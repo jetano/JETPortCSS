@@ -3,6 +3,8 @@
 Covid 19 Data Exploration using PostgreSQL
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+Dataset source: https://ourworldindata.org/covid-deaths
+
 */
 
 SELECT *
